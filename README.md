@@ -7,3 +7,19 @@
 
 
 ## Table of contents
+* General Info
+* Screenshot
+* Features
+* Technology
+* Status
+* Contact
+
+## General Info
+We build an ** Automated Greenhouse System ** by using different Sensors. 
+In this project, we build a two modules
+  1. Smart Irrigation.
+  2. Weather Controlling.
+###### 1. Smart Irrigation
+While building this system, We use a Soil moistoisture sensor
+
+
